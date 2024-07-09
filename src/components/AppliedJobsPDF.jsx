@@ -44,3 +44,5 @@ export default AppliedJobsPDF;
 AppliedJobsPDF.propTypes = {
     jobs: PropTypes.array,
 }
+
+// Applied Job Pdf
