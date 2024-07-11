@@ -143,3 +143,5 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+// Navbar 
