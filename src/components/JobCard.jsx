@@ -51,3 +51,5 @@ export default JobCard;
 JobCard.propTypes = {
     job: PropTypes.object,
 }
+
+// job Card 
