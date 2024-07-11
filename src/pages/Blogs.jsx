@@ -89,3 +89,4 @@ const Blogs = () => {
 };
 
 export default Blogs;
+// Blogs
