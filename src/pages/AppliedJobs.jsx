@@ -156,3 +156,5 @@ const AppliedJobs = () => {
 };
 
 export default AppliedJobs;
+
+// Applied Job 
