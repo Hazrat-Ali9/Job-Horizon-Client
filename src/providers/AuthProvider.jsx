@@ -94,3 +94,5 @@ export default AuthProvider;
 AuthProvider.propTypes = {
     children: PropTypes.node,
 }
+
+// Auth Provider jsx
