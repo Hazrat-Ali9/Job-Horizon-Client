@@ -245,3 +245,5 @@ const JobDetails = () => {
 };
 
 export default JobDetails;
+
+// Job Details 
