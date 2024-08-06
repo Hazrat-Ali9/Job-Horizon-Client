@@ -18,4 +18,4 @@ PrivateRoute.propTypes = {
     children: PropTypes.node,
 }
 
-// Private route 
+// Private Route 
