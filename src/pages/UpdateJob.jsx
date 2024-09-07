@@ -6,7 +6,7 @@ import { useNavigate, useParams } from 'react-router-dom';
 import useAuth from '../hooks/useAuth';
 import toast from 'react-hot-toast';
 import { Helmet } from 'react-helmet';
-
+// Update jobs 
 const UpdateJob = () => {
     const axiosSecure = useAxiosSecure();
     const navigate = useNavigate();
@@ -315,4 +315,3 @@ const UpdateJob = () => {
 
 export default UpdateJob;
 
-// Update jobs
