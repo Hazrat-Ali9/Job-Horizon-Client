@@ -4,6 +4,8 @@ const axiosSecure = axios.create({
     baseURL: import.meta.env.VITE_API_URL,
     withCredentials: true,
 })
+
+// Use Axios Secure 
 const useAxiosSecure = () => {
 
     //   Response Interceptor
@@ -26,4 +28,3 @@ const useAxiosSecure = () => {
 
 export default useAxiosSecure;
 
-// Use AxiosSecure 
