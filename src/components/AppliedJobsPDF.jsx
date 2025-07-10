@@ -1,6 +1,6 @@
 import { Document, Page, Text, View, StyleSheet } from '@react-pdf/renderer';
 import PropTypes from 'prop-types'; // ES6
-
+// Applied Jobs pdf
 const styles = StyleSheet.create({
     page: {
         flexDirection: 'column',
